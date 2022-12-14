@@ -1,0 +1,3 @@
+# My First Spring Boot REST Service
+
+Don't laugh...
